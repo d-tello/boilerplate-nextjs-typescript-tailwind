@@ -20,7 +20,8 @@
         "plugin:jsx-a11y/recommended", // Accessibility rules
         "plugin:prettier/recommended", // Prettier recommended rules
         "plugin:import/recommended",
-        "plugin:import/typescript"
+        "plugin:import/typescript",
+        "plugin:@next/next/recommended"
       ],
       "rules": {
         "react/prop-types": "off",
